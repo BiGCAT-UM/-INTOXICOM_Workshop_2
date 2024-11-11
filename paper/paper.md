@@ -1,6 +1,6 @@
 ---
-title: 'INTOXICOM Workshop Report: Shedding the light on unknown chemical substances'
-title_short: 'INTOXIOM #1: unknown chemical substances'
+title: 'INTOXICOM Workshop Report: ...'
+title_short: 'INTOXIOM #2: ...'
 tags:
   - toxicology
   - PubChem
@@ -9,17 +9,17 @@ authors:
   - name: Marvin Martens
     affiliation: 1
 affiliations:
-  - name: Dept of Bioinformatics - BiGCaT, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
-date: 7 November 2022
+date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
 biohackathon_name: "INTOXICOM Workshops"
 biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community)"
-biohackathon_location: "Europe, 2024-2025"
-group: Workshop 1
+biohackathon_location: "Basel, 27-29 Nov 2024"
+group: Workshop 2
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/BiGCAT-UM/INTOXICOM_Workshop_2/
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Martens \emph{et al.}
@@ -28,7 +28,7 @@ authors_short: Martens \emph{et al.}
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. Here, we here report on the Xth workshop...
+As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. Here, we here report on the 2nd workshop...
 
 # Formatting
 
