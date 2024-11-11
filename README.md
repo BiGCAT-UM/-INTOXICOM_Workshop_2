@@ -5,6 +5,8 @@ Minimal example of a [BioHackrXiv](https://biohackrxiv.org/) publication that ca
 [INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community) Workshop Report.
 Each of the workshops will write one report.
 
+* Workshop 1 report preprint: https://doi.org/10.37044/osf.io/un2rw
+
 ## Step 1: Clone this Template Repository
 
 This repository is a template repository. This means that you can hit the green "Use this template"
