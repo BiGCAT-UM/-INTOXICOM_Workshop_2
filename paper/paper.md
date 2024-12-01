@@ -39,7 +39,7 @@ authors_short: Martens \emph{et al.}
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. The first INTOXICOM workshop was held in May 2024~\cite{Martens2024INTOXICOM}. Here, we here report on the 2nd workshop...
+As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. The first INTOXICOM workshop was held in May 2024 [@citesAsRecommendedReading:citesAsEvidence:Martens2024INTOXICOM]. Here, we here report on the 2nd workshop...
 
 # Formatting
 
