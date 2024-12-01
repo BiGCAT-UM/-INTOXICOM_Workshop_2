@@ -9,10 +9,13 @@ tags:
 authors:
   - name: Jente Houweling
     affiliation: 1
+    orcid: 0009-0005-3680-0645
   - name: Marvin Martens
     affiliation: 2
+    orcid: 0000-0003-2230-0840
   - name: Egon Willighagen
     affiliation: 3
+    orcid: 0000-0001-7542-0286
 affiliations:
   - name: RIVM, Bilthoven, Netherlands, Department of Bioinformatics - BiGCaT, NUTRIM, Maastricht University, 6229 ER Maastricht, NL
     index: 1
