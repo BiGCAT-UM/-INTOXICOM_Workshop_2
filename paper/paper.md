@@ -5,12 +5,20 @@ tags:
   - toxicology
   - PubChem
   - unknown chemical substances
+# order now alphabetical
 authors:
-  - name: Marvin Martens
+  - name: Jente Houweling
     affiliation: 1
+  - name: Marvin Martens
+    affiliation: 2
+  - name: Egon Willighagen
+    affiliation: 3
 affiliations:
-  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: RIVM, Bilthoven, Netherlands, Department of Bioinformatics - BiGCaT, NUTRIM, Maastricht University, 6229 ER Maastricht, NL
     index: 1
+  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
+    index: 2
+    ror: 8s72v
 date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
@@ -28,7 +36,7 @@ authors_short: Martens \emph{et al.}
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. Here, we here report on the 2nd workshop...
+As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. The first INTOXICOM workshop was held in May 2024~\cite{Martens2024INTOXICOM}. Here, we here report on the 2nd workshop...
 
 # Formatting
 
